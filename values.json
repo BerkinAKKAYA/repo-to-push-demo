@@ -1,1 +1,1 @@
-{"replicaCount":3,"service":{"type":"ClusterIP","port":8080}}
+{"replicaCount":2,"service":{"type":"ClusterIP","port":8080}}
