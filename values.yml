@@ -8,12 +8,6 @@ service:
   port: 80
 ingress:
   enabled: false
-  annotations: {}
   path: /
   hosts:
     - chart-example.local
-  tls: []
-resources: {}
-nodeSelector: {}
-tolerations: []
-affinity: {}
